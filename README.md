@@ -1,7 +1,10 @@
 # MyFirstRepo
 
 ## Overview
-This repository is my first GitHub project created as part of a GitHub learning task. It is designed to help me get familiar with version control, commits, and repository management on GitHub.
+This repository is my first repository created as part of a GitHub learning task within the version control module.  
+It serves as an introduction to working with GitHub by helping me practice the essential skills of creating repositories, managing files, making commits, and understanding how changes are tracked over time.
+
+Through this project, I am learning the foundations of Git and GitHub, which will support more advanced collaboration and development workflows in future projects.
 
 ## Contents
 - **introduction.txt**: A brief introduction about myself.

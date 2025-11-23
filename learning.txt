@@ -1,4 +1,5 @@
 # Reflection on Learning
 
-So far, in this GitHub course, I have learned how to create repositories, branches, and commits. I also learned how to manage pull requests, work with forks, and collaborate with other contributors. This knowledge is helping me understand version control and prepare for real-world projects.
+What I have learned from this course
 
+So far, in this GitHub course, I have learned how to create repositories, branches, and commits. I also learned how to manage pull requests, work with forks, and collaborate with other contributors. This knowledge is helping me understand version control and prepare for real-world projects.
